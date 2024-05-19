@@ -1,0 +1,131 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.container-1 {
+    margin: 0px;
+    padding: 0px;
+    background-color: palegreen;
+    color: rgb(64, 55, 55);
+
+}
+
+
+.nav li {
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: gray;
+}
+
+
+
+
+
+
+
+  .card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 50px;
+  }
+  
+  .card h2 {
+    text-align: center;
+  }
+  
+  .price {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .price span {
+    font-size: 14px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+  }
+
+
+
+
+  .cards {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 50px;
+  }
+  
+  .cards h2 {
+    text-align: center;
+  }
+  
+  .price {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
